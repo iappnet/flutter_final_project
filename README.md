@@ -1,4 +1,4 @@
-# flutter project for flutter bootcamp
+# Flutter Project for Flutter Bootcamp
 
 This project is a starting point for a Flutter application.
 
@@ -7,7 +7,7 @@ This is my final Flutter project for flutter bootcamp from Tuwaiq Academy
 Many Thanks to [Fahad Alazmi](https://github.com/fahad0100) (Lead Instructor) and All Tuwaiq Academy Team.
 
 
-## Getting Started
+## What is This Project?
 
 
 This project is trying to simulate a clothing store

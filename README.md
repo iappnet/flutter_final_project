@@ -22,3 +22,9 @@ Im thrilled to have feedback
 
 
 ![Cart](https://user-images.githubusercontent.com/88655860/172796765-a06a304a-c224-466f-9d5b-3ffb80d1a7d9.png)
+
+<style type="text/css">
+    img {
+        width: 250px;
+    }
+</style>

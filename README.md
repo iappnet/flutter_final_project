@@ -1,16 +1,14 @@
-# flutter_final_project
+# flutter project for flutter bootcamp
 
-A new Flutter project.
+This is my final Flutter project for flutter bootcamp from Tuwaiq Academy
+
+Thanks to [Fahad Alazmi](https://github.com/fahad0100) (Lead Instructor) and All Tuwaiq Academy Teams
+
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+This project is trying to simulate a clothing store
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

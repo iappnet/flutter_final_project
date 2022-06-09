@@ -15,7 +15,7 @@ This project is trying to simulate a clothing store
 Im thrilled to have feedback 
 
 
-![Home](https://user-images.githubusercontent.com/88655860/172796470-9214ee51-c773-4c52-8365-bb08e8bd42d7.png)
+![Home](https://user-images.githubusercontent.com/88655860/172796470-9214ee51-c773-4c52-8365-bb08e8bd42d7.png =100x100)
 
 
 ![Profile](https://user-images.githubusercontent.com/88655860/172796756-2c8d00ed-4e1a-4f64-87bd-45aee4500964.png)
@@ -23,8 +23,3 @@ Im thrilled to have feedback
 
 ![Cart](https://user-images.githubusercontent.com/88655860/172796765-a06a304a-c224-466f-9d5b-3ffb80d1a7d9.png)
 
-<style type="text/css">
-    img {
-        width: 250px;
-    }
-</style>
